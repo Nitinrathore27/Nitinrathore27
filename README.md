@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nitin Rathore</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinrathore27&label=Profile%20views&color=0e75b6&style=flat" alt="nitinrathore27" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitinrathore27" alt="nitinrathore27" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently exploring **Web Devlopment**
 
-- 👯 I’m looking to collaborate on **Front-end Projects**
+- 👯 I’m looking to collaborate on **Full stack Projects**
 
 - 👨‍💻 All of my projects are available at [https://visitnitin.netlify.app/](https://visitnitin.netlify.app/)
 
 - 📫 How to reach me **aahara.nitin.27@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wIra5nPeGr-AexLDzD7ygOcXgSucm3A9/view?usp=drive_link](https://drive.google.com/file/d/1wIra5nPeGr-AexLDzD7ygOcXgSucm3A9/view?usp=drive_link)
+- 📄 Know about my experiences [https://shorturl.at/4n9Ij](https://shorturl.at/4n9Ij)
 
 - ⚡ Fun fact **I can cook websites**
 
