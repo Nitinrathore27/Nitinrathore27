@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitinrathore27" alt="nitinrathore27" /></a> </p>
 
-- 🌱 I’m currently exploring **Web Devlopment**
+- I’m currently exploring **Web Devlopment**
 
-- 👯 I’m looking to collaborate on **Full stack Projects**
+- I’m looking to collaborate on **Full stack Projects**
 
-- 👨‍💻 All of my projects are available at [https://visitnitin.netlify.app/](https://visitnitin.netlify.app/)
+- All of my projects are available at [https://visitnitin.netlify.app/](https://visitnitin.netlify.app/)
 
-- 📫 How to reach me **aahara.nitin.27@gmail.com**
+- How to reach me **aahara.nitin.27@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/4n9Ij](https://shorturl.at/4n9Ij)
-
-- ⚡ Fun fact **I can cook websites**
+- Know about my experiences [https://shorturl.at/4n9Ij](https://shorturl.at/4n9Ij)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
