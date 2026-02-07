@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Backend & Systems Developer</h3>
 
 <p align="center">
-Currently working at Fortive (Qualitrol) on industrial software systems,
+Currently working at Ralliant (Qualitrol) on industrial software systems,
 backend services, and GenAI-based platforms.
 </p>
 
